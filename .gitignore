@@ -1,0 +1,6 @@
+data
+CatBoostRegressor.txt
+churn_catboost.ipynb
+survtxt
+.ipynb_checkpoints/
+catboost_info
